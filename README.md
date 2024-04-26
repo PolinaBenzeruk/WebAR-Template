@@ -1,8 +1,8 @@
 # Проста обробка текстових даних засобами оболонки Unix-подібних ОС інтерпретора команд ОС
 
 **2.1)Налаштування процесу документування рішень лабораторної роботи**
-!(https://github.com/PolinaBenzeruk/WebAR-Template/assets/162332938/4145eaaa-5030-4847-9e86-a2b96eaf1d1c)
-!(https://github.com/PolinaBenzeruk/WebAR-Template/assets/162332938/09ab16e1-65d3-4940-a5b6-0b727af692ef)
+![IMAGE 2024-04-26 17:05:05](https://github.com/PolinaBenzeruk/WebAR-Template/assets/162332938/c85df738-44ad-4c63-88c5-c1d0d07b3aba)
+![tg_image_1694170335](https://github.com/PolinaBenzeruk/WebAR-Template/assets/162332938/a23a4532-63a4-4596-9ab0-1cc9842180bb)
 Рис.1-2 - Фрагмент екрану з рішення завдання 2.1.1.1 Виконати безпечне клонування GitHub-репозиторію, який був наданий вам викладачем, створивши на локальному комп’ютері Git-репозиторій
 ![tg_image_1343272892](https://github.com/PolinaBenzeruk/WebAR-Template/assets/162332938/ed028605-986a-4d85-bf19-3662734b37d7)
 Рис.3 - Фрагмент екрану з рішення завдання 2.1.1.2 Створити нову Git-гілку з назвою «Laboratory-work-3»
